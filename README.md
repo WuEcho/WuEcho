@@ -116,11 +116,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WuEcho&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuEcho&layout=compact&hide_border=true&langs_count=8" alt="Top Langs" />
+  <a href="https://github.com/WuEcho">
+    <img src="https://ghchart.rshah.org/2E8B57/WuEcho" alt="GitHub contribution chart" width="640"/>
+  </a>
 </p>
-
-
 ---
 
 <p align="center">  
