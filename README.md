@@ -115,10 +115,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">  
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WuEcho\&show_icons=true\&hide_border=true\&count_private=true" alt="GitHub Stats" />  
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuEcho\&layout=compact\&hide_border=true\&langs_count=8" alt="Top Langs" />  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WuEcho&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuEcho&layout=compact&hide_border=true&langs_count=8" alt="Top Langs" />
 </p>
+
 
 ---
 
